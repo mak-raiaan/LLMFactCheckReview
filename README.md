@@ -117,21 +117,7 @@ lucination.</em></p>
 | **Datasets Analyzed** | 72 |
 | **Databases Searched** | Web of Science, arXiv, Scopus, OpenReview |
 
----
 
-## 📁 Repository Contents
-
-```
-├── 📄 README.md                     # This file
-├── 📑 LLM_Fact_check_R1_Highlighted.pdf  # Full paper
-├── 📊 data/
-│   ├── Scopus.pdf                  # Database search results
-│   ├── Web_of_Science.pdf          # Database search results
-│   └── ArXiv.pdf                   # Database search results
-├── 🖼️ figures/                      # All paper figures
-├── 📋 tables/                       # Supplementary tables
-└── 📚 references/                   # Additional resources
-```
 
 ---
 
