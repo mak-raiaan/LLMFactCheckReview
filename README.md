@@ -24,66 +24,66 @@ Subhey Sadi Rahman¹, Md. Adnanul Islam¹, Md. Mahbub Alam¹, Musarrat Zeba¹, M
 
 ## 📊 Key Figures
 
-### The article selection and screening process is on the left and inclusion and exclusion criteria for article selection is on the right.
+### Figure 2: The article selection and screening process is on the left and inclusion and exclusion criteria for article selection is on the right.
 <div align="center">
   <img src="./diagrams/Figure2.png" alt="Figure 1" width="80%">
 </div>
 
-### A visual summary of the articles selected from journals, conference proceedings, and preprints.
+### Figure 3: A visual summary of the articles selected from journals, conference proceedings, and preprints.
 <div align="center">
   <img src="./diagrams/Figure3.png" alt="Figure 5" width="80%">
 </div>
 
 
-### Grouped bar chart showing the monthly break-down of publications from 2021 to 2025.
+### Figure 4: Grouped bar chart showing the monthly break-down of publications from 2021 to 2025.
 <div align="center">
   <img src="./diagrams/Figure4.png" alt="Figure 4" width="80%">
 </div>
 
 
-### Bar chart illustrating the geographical breakdown of publications.
+### Figure 5: Bar chart illustrating the geographical breakdown of publications.
 <div align="center">
   <img src="./diagrams/Figure5.png" alt="Figure 6" width="80%">
 </div>
 
 
-### Taxonomy of evaluation metrics for fact-checking systems
+### Figure 6: Taxonomy of evaluation metrics for fact-checking systems
 <div align="center">
   <img src="./diagrams/Figure6.png" alt="Figure 7" width="80%">
 </div>
 
 
-### Intrinsic vs. extrinsic hallucinations in LLM out-puts: The source text provides verifiable ground truth about Ebola and COVID-19 vaccines. The intrinsic hallucination example contradicts the fact explicitly stated in the source, whereas extrinsic hallucination introduces new information that is not supported by the source.
+### Figure 7: Intrinsic vs. extrinsic hallucinations in LLM out-puts: The source text provides verifiable ground truth about Ebola and COVID-19 vaccines. The intrinsic hallucination example contradicts the fact explicitly stated in the source, whereas extrinsic hallucination introduces new information that is not supported by the source.
 <div align="center">
   <img src="./diagrams/Figure7.png" alt="Figure 9" width="80%">
 </div>
 
 
-### Two types of hallucination: Red-highlighted textshows hallucinated content, while blue-highlighted text re-flects user instructions or context that conflict with the hal-lucination.
+### Figure 8: Two types of hallucination: Red-highlighted textshows hallucinated content, while blue-highlighted text re-flects user instructions or context that conflict with the hal-lucination.
 <div align="center">
   <img src="./diagrams/Figure8.png" alt="Figure 11" width="80%">
 </div>
 
 
-### Illustration of major dataset types and domains.
+### Figure 9: Illustration of major dataset types and domains.
 <div align="center">
   <img src="./diagrams/Figure9.png" alt="Figure 11" width="80%">
 </div>
 
 
-### Breakdown of approaches in prompt design, fine-tuning, and domain-specific training.
+### Figure 10: Breakdown of approaches in prompt design, fine-tuning, and domain-specific training.
 <div align="center">
   <img src="./diagrams/Figure10.png" alt="Figure 11" width="80%">
 </div>
 
 
-### Workflow of a RAG system for factual question answering.
+### Figure 11: Workflow of a RAG system for factual question answering.
 <div align="center">
   <img src="./diagrams/Figure11.png" alt="Figure 11" width="80%">
 </div>
 
 
-### Limitations in RAG-based fact-checking and corresponding mitigation Strategies
+### Figure 12: Limitations in RAG-based fact-checking and corresponding mitigation Strategies
 <div align="center">
   <img src="./diagrams/Figure12.png" alt="Figure 11" width="80%">
 </div>
