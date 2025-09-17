@@ -24,77 +24,69 @@ Subhey Sadi Rahman¹, Md. Adnanul Islam¹, Md. Mahbub Alam¹, Musarrat Zeba¹, M
 
 ## 📊 Key Figures
 
-### Creening process and inclusion and exclusion criteria
+### The article selection and screening process is on the left and inclusion and exclusion criteria for article selection is on the right.
 <div align="center">
   <img src="./diagrams/Figure2.png" alt="Figure 1" width="80%">
 </div>
-<p align="center"><em>Figure 2: The article selection and screening process is on the left and inclusion and exclusion criteria for article selection
-is on the right.</em></p>
 
-### Article Selected Venues
+### A visual summary of the articles selected from journals, conference proceedings, and preprints.
 <div align="center">
   <img src="./diagrams/Figure3.png" alt="Figure 5" width="80%">
 </div>
-<p align="center"><em>Figure 3: A visual summary of the articles selected from journals, conference proceedings, and preprints.</em></p>
 
-### Publication Timeline
+
+### Grouped bar chart showing the monthly break-down of publications from 2021 to 2025.
 <div align="center">
   <img src="./diagrams/Figure4.png" alt="Figure 4" width="80%">
 </div>
-<p align="center"><em>Figure 4: Grouped bar chart showing the monthly break-down of publications from 2021 to 2025.</em></p>
 
-### Publication Country
+
+### Bar chart illustrating the geographical breakdown of publications.
 <div align="center">
   <img src="./diagrams/Figure5.png" alt="Figure 6" width="80%">
 </div>
-<p align="center"><em>Figure 5: Bar chart illustrating the geographical breakdown of publications.</em></p>
 
-### Evaluation Metrics Taxonomy
+
+### Taxonomy of evaluation metrics for fact-checking systems
 <div align="center">
   <img src="./diagrams/Figure6.png" alt="Figure 7" width="80%">
 </div>
-<p align="center"><em>Figure 6: Taxonomy of evaluation metrics for fact-checking systems</em></p>
 
-### Dataset Overview
+
+### Intrinsic vs. extrinsic hallucinations in LLM out-puts: The source text provides verifiable ground truth about Ebola and COVID-19 vaccines. The intrinsic hallucination example contradicts the fact explicitly stated in the source, whereas extrinsic hallucination introduces new information that is not supported by the source.
 <div align="center">
   <img src="./diagrams/Figure7.png" alt="Figure 9" width="80%">
 </div>
-<p align="center"><em>Figure 7: Intrinsic vs. extrinsic hallucinations in LLM out-puts: The source text provides verifiable ground truth about
-Ebola and COVID-19 vaccines. The intrinsic hallucination
-example contradicts the fact explicitly stated in the source,
-whereas extrinsic hallucination introduces new information
-that is not supported by the source.</em></p>
 
-### RAG System Workflow
+
+### Two types of hallucination: Red-highlighted textshows hallucinated content, while blue-highlighted text re-flects user instructions or context that conflict with the hal-lucination.
 <div align="center">
   <img src="./diagrams/Figure8.png" alt="Figure 11" width="80%">
 </div>
-<p align="center"><em>Figure 8: Two types of hallucination: Red-highlighted textshows hallucinated content, while blue-highlighted text re-flects user instructions or context that conflict with the hal-
-lucination.</em></p>
 
-### RAG System Workflow
+
+### Illustration of major dataset types and domains.
 <div align="center">
   <img src="./diagrams/Figure9.png" alt="Figure 11" width="80%">
 </div>
-<p align="center"><em>Figure 9: Illustration of major dataset types and domains.</em></p>
 
-### RAG System Workflow
+
+### Breakdown of approaches in prompt design, fine-tuning, and domain-specific training.
 <div align="center">
   <img src="./diagrams/Figure10.png" alt="Figure 11" width="80%">
 </div>
-<p align="center"><em>Figure 10: Breakdown of approaches in prompt design, fine-tuning, and domain-specific training.</em></p>
 
-### RAG System Workflow
+
+### Workflow of a RAG system for factual question answering.
 <div align="center">
   <img src="./diagrams/Figure11.png" alt="Figure 11" width="80%">
 </div>
-<p align="center"><em>Figure 11: Workflow of a RAG system for factual question answering.</em></p>
 
-### RAG System Workflow
+
+### Limitations in RAG-based fact-checking and corresponding mitigation Strategies
 <div align="center">
   <img src="./diagrams/Figure12.png" alt="Figure 11" width="80%">
 </div>
-<p align="center"><em>Figure 12: Limitations in RAG-based fact-checking and corresponding mitigation Strategies</em></p>
 
 ---
 
@@ -195,11 +187,6 @@ lucination.</em></p>
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🤝 Contributing
 
