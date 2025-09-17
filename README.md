@@ -193,10 +193,8 @@ lucination.</em></p>
 ```bibtex
 @article{rahman2025hallucination,
   title={Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models},
-  author={Rahman, Subhey Sadi and Islam, Md. Adnanul and Alam, Md. Mahbub and 
-          Zeba, Musarrat and Rahman, Md. Abdur and Chowa, Sadia Sultana and 
-          Raiaan, Mohaimenul Azam Khan and Azam, Sami},
-  journal={arXiv preprint},
+  author={Rahman, Subhey Sadi and Islam, Md Adnanul and Alam, Md Mahbub and Zeba, Musarrat and Rahman, Md Abdur and Chowa, Sadia Sultana and Raiaan, Mohaimenul Azam Khan and Azam, Sami},
+  journal={arXiv preprint arXiv:2508.03860},
   year={2025}
 }
 ```
