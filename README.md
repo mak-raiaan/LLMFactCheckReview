@@ -1,5 +1,6 @@
 # Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models
 
+**Selected Papers & Search Queries:** [Google Sheet](https://docs.google.com/spreadsheets/d/1grCMEgiiN2MnLtmLv7mr01eAci7d4-5055QQ2wO1jq0/edit?usp=sharing)
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2508.03860)
 
