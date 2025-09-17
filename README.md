@@ -1,6 +1,6 @@
 # Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models
 
-**Selected Papers & Search Queries:** [Google Sheet](https://docs.google.com/spreadsheets/d/1grCMEgiiN2MnLtmLv7mr01eAci7d4-5055QQ2wO1jq0/edit?usp=sharing)
+**Selected Papers & Search Queries:** [Google Sheet](https://docs.google.com/spreadsheets/d/1PBZDKwXilSU4Km6dm3n8cXO7aah11xzoNn3Iq6x7Qa8/edit?usp=sharing)
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2508.03860)
 
@@ -109,7 +109,7 @@ Subhey Sadi Rahman¹, Md. Adnanul Islam¹, Md. Mahbub Alam¹, Musarrat Zeba¹, M
 | **Review Period** | 1 January 2021 - 15 September 2025 |
 | **Datasets Analyzed** | 72 |
 | **Databases Searched** | [Web of Science](Database%20search%20result/Web%20of%20Science.pdf), [arXiv](Database%20search%20result/ArXiv.pdf), [Scopus](Database%20search%20result/Scopus.pdf), [OpenReview](Database%20search%20result/OpenReview.pdf) |
-| **Selected Papers & Search Queries** | **[Google Sheet](https://docs.google.com/spreadsheets/d/1grCMEgiiN2MnLtmLv7mr01eAci7d4-5055QQ2wO1jq0/edit?usp=sharing)** |
+| **Selected Papers & Search Queries** | **[Google Sheet]([https://docs.google.com/spreadsheets/d/1grCMEgiiN2MnLtmLv7mr01eAci7d4-5055QQ2wO1jq0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PBZDKwXilSU4Km6dm3n8cXO7aah11xzoNn3Iq6x7Qa8/edit?usp=sharing))** |
 
 
 
