@@ -2,7 +2,7 @@
 
 **Selected Papers & Search Queries:** [Google Sheet](https://docs.google.com/spreadsheets/d/1PBZDKwXilSU4Km6dm3n8cXO7aah11xzoNn3Iq6x7Qa8/edit?usp=sharing)
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2508.03860)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.03860-b31b1b.svg)](https://arxiv.org/abs/2508.03860)
 
 <div align="center">
   <img src="diagrams/Figure1.png" alt="Header Image 2" width="100%">
