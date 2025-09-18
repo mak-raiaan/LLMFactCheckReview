@@ -1,0 +1,23 @@
+Databases,Search Keys,Paper Count
+Open Review,"""large language models"" fact-checking OR LLM ""misinformation detection"" OR ""automated fact verification"" LLM OR ""factuality evaluation"" NLP OR hallucination LLM OR ""hallucination mitigation"" OR ""hallucination detection"" OR ""fact-checking datasets"" OR ""retrieval-augmented generation"" fact-checking OR RAG LLM OR ""fine-tuning"" ""fact verification"" OR ""prompt engineering"" ""truthful generation"" OR ""LLM-based fact verification"" NLP OR ""fake news"" hallucination",1000
+Web of science and Scopus,"(""large language models"" AND ""fact-checking"") OR (""LLM"" AND ""misinformation detection"") OR (""automated fact verification"" AND ""LLMs"") OR (""factuality evaluation"" AND ""natural language processing"") OR (""hallucination"" AND ""LLMs"") OR (""LLM hallucination"") OR (""hallucination mitigation"" AND ""large language models"") OR (""hallucination detection"" AND ""large language models"") OR (""fact-checking datasets"" OR ""benchmark datasets for fact verification"") OR (""retrieval-augmented generation"" AND ""fact-checking"") OR (""RAG"" AND ""LLM"") OR (""RAG"" AND ""fact-checking"") OR (""fine-tuning"" AND ""fact verification models"") OR (""prompt engineering"" AND (""truthful generation"" OR ""fact-checking"")) OR (""LLM-based fact verification"" AND ""NLP"") OR ((""misinformation detection"" OR ""fake news"") AND ""hallucination"")",Web of Science
+,,1235
+,,Scopus
+,,3270
+ArXiv,large language models AND fact-checking,9180
+,LLM AND misinformation detection,
+,automated fact verification AND LLM,
+,factuality evaluation AND natural language processing,
+,hallucination AND LLM,
+,RAG AND LLM,
+,LLM hallucination,
+,hallucination mitigation AND large language models,
+,hallucination detection AND large language models,
+,fact-checking datasets OR benchmark datasets for fact verification,
+,retrieval-augmented generation AND fact-checking,
+,RAG AND fact-checking,
+,fine-tuning AND fact verification models,
+,prompt engineering AND truthful generation,
+,prompt engineering AND fact-checking,
+,LLM-based fact verification AND NLP,
+,misinformation detection OR fake news AND hallucination,
